@@ -18,3 +18,7 @@ npm install axios
 npm install semantic-ui-react
 
 Then copy all the code from /client folder
+
+Start the application with:
+go run main.go and npm start from 2 different terminals
+
